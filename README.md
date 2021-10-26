@@ -1,6 +1,5 @@
 # manager_app
 
-A new Flutter project.
 
 ![AppMessenger](https://user-images.githubusercontent.com/81074668/138817248-f35a65af-9036-4d06-a02b-27e83da1dae6.png)
 
