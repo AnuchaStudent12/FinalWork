@@ -3,14 +3,25 @@
 firebase authentication
 firebase database
 
-Login page
-![AppMessenger](https://user-images.githubusercontent.com/81074668/138817657-2dbc8d60-027a-4038-8144-a46c722268d4.png)
-Register page
-![AppMessenger2](https://user-images.githubusercontent.com/81074668/138818066-92d2a763-2923-4bfb-a1d5-b22c5a38838d.png)
 
-![AppMessenger4](https://user-images.githubusercontent.com/81074668/138818072-805ae411-033b-47fc-9268-c457ea20de35.png)
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center">
+    <img src="https://user-images.githubusercontent.com/81074668/138817657-2dbc8d60-027a-4038-8144-a46c722268d4.png" width="200"/>
+</td>
+<td style="text-align: center">
+<img src="https://user-images.githubusercontent.com/81074668/138818066-92d2a763-2923-4bfb-a1d5-b22c5a38838d.png" width="400"/>
+</td>
+  <td style="text-align: center">
+<img src="https://user-images.githubusercontent.com/81074668/138818072-805ae411-033b-47fc-9268-c457ea20de35.png" width="200"/>
+</td>
+</td>
+  <td style="text-align: center">
 
-![AppMessenger3](https://user-images.githubusercontent.com/81074668/138818079-2750cabd-92ea-4fb2-b1be-3d69e0b6d8e3.png)
+</td>
+
+
+</tr></table></div>
+
 
 ## Getting Started
 
